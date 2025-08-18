@@ -55,11 +55,11 @@
 ---
 
 ### 💡 Was mich antreibt
-- Mich fasziniert die Technik, die von den meisten einfach als Selbstverständlich wahrgenommen wird. Ich setzte mich gerne mit Technologie, vor allem der Softwareseite auseinander. \
-    - Von ARPANET/DARPANET bis WWW. \
-    - Von Abakus bis Quantencomputer. \
-    - Von einzelnder LED bis Displays. \
-    - Von Enigma bis Pegasus. \
+- Mich fasziniert die Technik, die von den meisten einfach als Selbstverständlich wahrgenommen wird. Ich setzte mich gerne mit Technologie, vor allem der Softwareseite auseinander. 
+    - Von ARPANET/DARPANET bis WWW. 
+    - Von Abakus bis Quantencomputer. 
+    - Von einzelnder LED bis Displays. 
+    - Von Enigma bis Pegasus. 
 - Ich setze mich außerdem jederzeit für gute Bedingungen im Internet ein, damit das womit ich aufgewachsen bin, wo man freunde gefunden um den ganzen Globus gefunden hat, nicht überreguliert und totzensiert wird.
 
 ---
