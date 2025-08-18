@@ -77,10 +77,14 @@
     - **<a href="https://github.com/YemotaY/YemotaY-6_DOF_ARM">6_DOF_ARM - Ein einfacher Roboterarm aus China</a>**
     - **<a href="https://github.com/YemotaY/YemotaY-6_DOF_ARM">pysu - Eine Erweiterte Logging und Trace Klasse für große Python Projekte</a>**
 
-- **Folgende Repos sind in Privater Entwicklung:**
+- **Folgende Repos sind in Privater Entwicklung (zukünftig):**
     - **<a href="#">v0ice - Discord/Teamspeak alternative (MIT)</a>**
     - **<a href="#">trainAI - Lernapp mit lokaler LLM Integration</a>**
     - **<a href="#">MCP IDE - Eine Open-Source cursor/copilot alternative (MIT)</a>**
+    - 
+- **Minecraft Modding (zukünftig):**
+    - **<a href="#">MRPG (MIT)</a>**
+    - **<a href="#">MANIMALS (MIT)</a>**
 ---
 
 ### 🤝 Offen für Zusammenarbeit / Projekte 
