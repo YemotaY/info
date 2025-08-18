@@ -81,7 +81,7 @@
     - **<a href="#">v0ice - Discord/Teamspeak alternative (MIT)</a>**
     - **<a href="#">trainAI - Lernapp mit lokaler LLM Integration</a>**
     - **<a href="#">MCP IDE - Eine Open-Source cursor/copilot alternative (MIT)</a>**
-    - 
+
 - **Minecraft Modding (zukünftig):**
     - **<a href="#">MRPG (MIT)</a>**
     - **<a href="#">MANIMALS (MIT)</a>**
