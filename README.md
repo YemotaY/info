@@ -112,4 +112,4 @@ Ich bin jederzeit offen für:
 
 ### ⚡ Unterstützen
 Wenn du mich und meine Arbeit unterstützen willst kannst du das hier tun: \
-<a href="https://www.paypal.com/donate">PayPal</a>
+<a href="https://www.paypal.me/ResellwithPi">PayPal</a>
