@@ -23,8 +23,8 @@
 ### 🛠️ Tech-Stack
 - **Programmiersprachen:** 
     - Regelmäßig im Einsatz: Python, JavaScript, PHP, Java, C++/C# 
-    - In Rente: ABAP 
-    Grundkenntnisse in: Rust, Perl, Assembler, LUA, C 
+    - In Rente: ABAP
+    - Grundkenntnisse in: Rust, Perl, Assembler, LUA, C 
 - **Frameworks & Libraries:** 
     - React, Node.js, Express, Django, composer, NodeRed, Kivy
 - **Datenbanken:** 
