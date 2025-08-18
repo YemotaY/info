@@ -3,7 +3,8 @@
 ## Hallo, ich bin Sören aka. YemotaY !
 
 ### Full-Stack Entwickler | Software Enthusiast | Internet Aktivist
-
+---
+**DISCLAIMER:** Die Seite ist im Aufbau. Es kann noch kleine Deltas zwischen den Repos geben.
 ---
 
 ### Intro
