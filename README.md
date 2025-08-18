@@ -84,7 +84,7 @@
     - **<a href="#">MCP IDE - Eine Open-Source cursor/copilot alternative (MIT)</a>**
 ---
 
-### 🤝 Offen für Zusammenarbeit / Projekte / Mentoring
+### 🤝 Offen für Zusammenarbeit / Projekte 
 
 Ich bin jederzeit offen für:
 
