@@ -60,7 +60,7 @@
     - Von Abakus bis Quantencomputer. 
     - Von einzelnder LED bis Displays. 
     - Von Enigma bis Pegasus. 
-- Ich setze mich außerdem jederzeit für gute Bedingungen im Internet ein, damit das womit ich aufgewachsen bin, wo man freunde gefunden um den ganzen Globus gefunden hat, nicht überreguliert und totzensiert wird.
+- Ich setze mich außerdem jederzeit für gute Bedingungen im Internet ein, damit das womit ich aufgewachsen bin, wo man freunde gefunden hat, ein schöner Ort bleibt.
 
 ---
 
