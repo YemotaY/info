@@ -97,12 +97,6 @@ Ich bin jederzeit offen für:
 
 - **💡 Projektideen** – egal ob Proof-of-Concept oder vollständige Anwendungen. Wenn es technisch interessant ist, höre ich gerne zu.
 
-- **🧑‍🏫 Mentoring / Coaching** für Einsteiger in:
-  - Programmierung (Python, JavaScript, etc.)
-  - Git / Versionskontrolle
-  - Einstieg in die Robotik oder KI
-  - Linux & Entwicklungsumgebungen
-
 ---
 
 ### 📫 Kontakt
