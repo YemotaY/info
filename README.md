@@ -33,16 +33,6 @@
     - Git, Docker
 - **Paradigmen:** 
     - OOP, Prozedural und Modular ansonsten Prozessorientiert
-- **Mathematische Kenntnisse:**  
-    - Lineare Algebra,Analysis 
-    - Differentialrechnung, Wahrscheinlichkeitsrechnung 
-    - Statistik 
-    - Komplexe Zahlen 
-    - Optimierungstheorie 
-    - Numerische Mathematik 
-    - Statistik 
-    - Grundlagen der Analysis
-
 ---
 
 ### 🌱 Aktuell lerne ich
