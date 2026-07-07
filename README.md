@@ -1,103 +1,99 @@
-# Vorstellung:
+<a href="readme_de.md">To German version</a>
+# Hello, I'm Sören aka. YemotaY !
 
-## Hallo, ich bin Sören aka. YemotaY !
+## Full-Stack/Embedded Dev | Software Enthusiast | Internet Activist
 
-### Full-Stack Entwickler | Software Enthusiast | Internet Aktivist
-### **DISCLAIMER:** Die Seite ist im Aufbau. Repos werden noch nachgepflegt, informationen angepasst.
----
+**DISCLAIMER:** This page is under construction.
 
-### Intro
-- **Werdegang:** 
-    - Grundschule, Realschule, Fachabi Informatik, Gerber-Ausbildung, Anwendungsentwickler-Ausbildung, ABAP Entwickler, Full-Stack Entwickler 
-- **Arbeit:** 
-    - Spezialmaschinenbau, Altsystembetreuung und Neuntwicklung eines Bindesystems zwischen Maschinen/Robotern und ERP oder anderen Systemen. (Digital Twin, PM etc.. ) 
+## Intro
+- **Experiences:** 
+    - High school, Programmer training, SAP R3 - ABAP Dev, Full-Stack Dev, .. ?
 - **Freizeit:** 
-    - Roboterprogrammierung (z.B 6DOF Arm, Lidar lib) , KI-weiterentwicklung (LLMs und Objekterkennung/Klassifizierung), 3D Druck, IOT (ESP6288/Arduino/Raspberry..) und Minecraft FTB!
-- **YouTube Empfehlungen:** 
-    - Computerphile, Numberphile, Fireship, Benn Jordan, Live Overflow u.v.m..
-- **Buch Empfehlungen:** 
-    - Rheinwerk: Hacking & Security, Python 3, Java, | The Art of Computer Programming (D. Knuth) u.v.m..
+    - Robotics (z.B 6DOF Arm, Lidar) , AI (LLMs and object recognition/classification), 3D Print, IOT (ESP6288/Arduino/Raspberry..) and Minecraft!
 
----
 
-### 🛠️ Tech-Stack
-- **Programmiersprachen:** 
-    - Regelmäßig im Einsatz: Python, JavaScript, PHP, Java, C++/C# 
-    - In Rente: ABAP
-    - Grundkenntnisse in: Rust, Perl, Assembler, LUA, C 
-- **Frameworks & Libraries:** 
-    - React, Node.js, Express, Django, composer, NodeRed, Kivy
-- **Datenbanken:** 
+## Tech Stack
+- **Programming Languages:**
+    - Regularly used: Python, JS, PHP, Java, C/C++/C#
+    - Retired: ABAP
+    - Basic knowledge of: Rust, Perl, x86 Assembler, Lua, C
+
+- **Frameworks & Libraries:**
+    - React, Node.js, Express, Django, Composer, Node-RED, Kivy, Ghidra
+
+- **Databases:**
     - MongoDB, PostgreSQL, MySQL
-- **Tools & Plattformen:** 
-    - Git, Docker
-- **Paradigmen:** 
-    - OOP, Prozedural und Modular ansonsten Prozessorientiert
----
 
-### 🌱 Aktuell lerne ich
-- **BucketListe:**
-    - x86 Assembler – Fokus auf richtiges benutzen der verschiedenen Register
-    - Node.JS - Electron / Einheitlichere und einfachere Schnittstellen zwischen Front und Backend
-    - Einfachste Messungen mit dem Oszilloskop an ICs und kleineren Platinen
-    - Audio/Video Codec implementierungen
+- **Tools & Platforms:**
+    - Git, Docker, Podman
 
----
+- **Paradigms:**
+    - OOP, Procedural and Modular, otherwise Process-Oriented
 
-### 💡 Was mich antreibt
-- Mich fasziniert die Technik, die von den meisten einfach als Selbstverständlich wahrgenommen wird. Ich setzte mich gerne mit Technologie, vor allem der Softwareseite auseinander. 
-    - Von ARPANET/DARPANET bis WWW. 
-    - Von Abakus bis Quantencomputer. 
-    - Von einzelnder LED bis Displays. 
-    - Von Enigma bis Pegasus. 
-- Ich setze mich außerdem jederzeit für gute Bedingungen im Internet ein, damit das womit ich aufgewachsen bin, wo man freunde gefunden hat, ein schöner Ort bleibt.
+## Currently Learning
 
----
+- **Bucket List:**
+    - x86 Assembler
+    - Node.js - How to avoid creating a
+    - Oscilloscope measurements on ICs and small circuit boards
+    - Audio/Video Codec Implementations
 
-### Repoübersicht:
-- **Folgende Repos sind veröffentlicht:**
+## What Drives Me
+- I'm fascinated by technology, which most people simply take for granted. I enjoy engaging with technology, especially the software side.
+- From ARPANET/DARPANET to the World Wide Web.
+- From abacuses to quantum computers.
+- From individual LEDs to displays.
+- From Enigma to Pegasus.
+- I'm also committed to ensuring good conditions on the internet, so that the place I grew up with, where I made friends, remains a positive place.
+
+## Repoübersicht:
+- **This repos are published:**
     - **<a href="https://github.com/YemotaY/PowerPython">PowerPython - Python Development Toolkit</a>**\
     - **<a href="https://github.com/YemotaY/pytask">pytask  - ToDo Overlay (Windows)</a>**
-    - **<a href="https://github.com/YemotaY/Wissensdatenbank">Wissensdatenbank - Wissensammlung</a>**
-    - **<a href="https://github.com/YemotaY/webprojects)">webprojects - Sammlung alter sachen</a>**
-    - **<a href="https://github.com/YemotaY/Python">Python Projects Collection - Sammlung alter sachen</a>**
-    - **<a href="https://github.com/YemotaY/KivyDesigner">KivyDesigner - Ein sehr schlechter Ansatz</a>**
+    - **<a href="https://github.com/YemotaY/Wissensdatenbank">Knowledge database - knowledge collection</a>**
+    - **<a href="https://github.com/YemotaY/webprojects)">webprojects - Collection of old things</a>**
+    - **<a href="https://github.com/YemotaY/Python">Python Projects Collection - Collection of old things</a>**
+    - **<a href="https://github.com/YemotaY/KivyDesigner">KivyDesigner - A very poor approach</a>**
     - **<a href="https://github.com/YemotaY/Kivy_Tests">Kivy_Tests</a>**
-    - **<a href="https://github.com/YemotaY/pAPIController">pAPIController - Eine Web-GUI um Backend Schnittstellen zu erstellen und zu verknüpfen</a>**
-    - **<a href="https://github.com/YemotaY/YemotaY-6_DOF_ARM">6_DOF_ARM - Ein einfacher Roboterarm aus China</a>**
-    - **<a href="https://github.com/YemotaY/YemotaY-6_DOF_ARM">pysu - Eine Erweiterte Logging und Trace Klasse für große Python Projekte</a>**
+    - **<a href="https://github.com/YemotaY/pAPIController">pAPIController - A web GUI for creating and linking backend interfaces</a>**
+    - **<a href="https://github.com/YemotaY/YemotaY-6_DOF_ARM">6_DOF_ARM - A simple robot arm from China</a>**
+    - **<a href="https://github.com/YemotaY/YemotaY-6_DOF_ARM">pysu - An extended logging and tracing class for large Python projects</a>**
 
-- **Folgende Repos sind in Privater Entwicklung (zukünftig):**
-    - **<a href="#">v0ice - Discord/Teamspeak alternative (MIT)</a>**
-    - **<a href="#">trainAI - Lernapp mit lokaler LLM Integration</a>**
-    - **<a href="#">MCP IDE - Eine Open-Source cursor/copilot alternative (MIT)</a>**
 
-- **Minecraft Modding (zukünftig):**
-    - **<a href="#">MRPG (MIT)</a>**
-    - **<a href="#">MANIMALS (MIT)</a>**
----
+## Open to Collaboration / Projects
 
-### 🤝 Offen für Zusammenarbeit / Projekte 
+I am always open to:
 
-Ich bin jederzeit offen für:
+- **Collaboration** on exciting projects in the following areas:
+    - Full-Stack Web Development
+    - Industry 4.0 & Digital Twin
+    - Robotics & Automation
+    - IoT & Embedded Systems
+    - Open Source Tools & Frameworks
 
-- **👥 Zusammenarbeit** an spannenden Projekten in den Bereichen:
-  - Full-Stack Webentwicklung
-  - Industrie 4.0 & Digital Twin
-  - Robotik & Automatisierung
-  - IoT & Embedded Systems
-  - Open Source Tools & Frameworks
+- **Project Ideas** – whether proof-of-concept or complete applications. If it's technically interesting, I'm all ears.
 
-- **💡 Projektideen** – egal ob Proof-of-Concept oder vollständige Anwendungen. Wenn es technisch interessant ist, höre ich gerne zu.
+## Recommendations
 
----
+- **YouTube:** 
+    - <a href="https://www.youtube.com/@Computerphile">Computerphile</a>
+    - <a href="https://www.youtube.com/@numberphile">Numberphile</a>
+    - <a href="https://www.youtube.com/@Fireship">Fireship</a>
+    - <a href="https://www.youtube.com/@BennJordan">Benn Jordan</a> 
+    - <a href="https://www.youtube.com/@LiveOverflow">Live Overflow </a>
+    - <a href="https://www.youtube.com/@LowLevelTV">Low Level</a>
+    - <a href="https://www.youtube.com/@Coffeezilla">Coffezilla</a>
 
-### 📫 Kontakt
+- **Literature:** 
+    - Rheinwerk: Hacking & Security, Python 3, Java,  
+    - The Art of Computer Programming (D. Knuth) 
+
+
+## Contact
 - GitHub: [github.com/YemotaY](https://github.com/)
 - E-Mail: b59190308@gmail.com
 
----
 
-### ⚡ Unterstützen
-Wenn du mich und meine Arbeit unterstützen willst kannst du das hier tun: \
+## Support
+If you would like to support me and my work, you can do so here: \
 <a href="https://www.paypal.me/ResellwithPi">PayPal</a>
