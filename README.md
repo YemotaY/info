@@ -1,15 +1,15 @@
 <a href="readme_de.md">To German version</a>
 # Hello, I'm Sören aka. YemotaY !
 
-## Full-Stack/Embedded Dev | Software Enthusiast | Internet Activist
+## FullStack/Embedded Dev | AI + MCP | Robotics + PLC | SAP
 
-**DISCLAIMER:** This page is under construction.
+**DISCLAIMER:** This page is constantly under construction.
 
 ## Intro
 - **Experiences:** 
-    - High school, Programmer training, SAP R3 - ABAP Dev, Full-Stack Dev, .. ?
-- **Freizeit:** 
-    - Robotics (z.B 6DOF Arm, Lidar) , AI (LLMs and object recognition/classification), 3D Print, IOT (ESP6288/Arduino/Raspberry..) and Minecraft!
+    - High school, Programmer training, SAP R3 - ABAP Dev, Full-Stack Dev, ..
+- **Freetime:** 
+    - Robotics (z.B 6DOF Arm, Lidar) / LIDAR , AI (LLMs and object recognition/classification) + MCP, 3D Print, IOT (ESP6288/Arduino/Raspberry..) and Minecraft!
 
 
 ## Tech Stack
@@ -34,7 +34,6 @@
 
 - **Bucket List:**
     - x86 Assembler
-    - Node.js - How to avoid creating a
     - Oscilloscope measurements on ICs and small circuit boards
     - Audio/Video Codec Implementations
 
