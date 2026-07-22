@@ -91,7 +91,7 @@ I am always open to:
 ## Contact
 - GitHub: [github.com/YemotaY](https://github.com/)
 - E-Mail: b59190308@gmail.com
-- Please use GPG :
+- Please use PGP :
 ```gpg
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 mDMEamEGFxYJKwYBBAHaRw8BAQdAwD92xBcL5C6X4rKl31CmSFHvP26ur4Rks6Js
