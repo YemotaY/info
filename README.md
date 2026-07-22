@@ -91,7 +91,22 @@ I am always open to:
 ## Contact
 - GitHub: [github.com/YemotaY](https://github.com/)
 - E-Mail: b59190308@gmail.com
-
+- Please use GPG :
+```gpg
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+mDMEamEGFxYJKwYBBAHaRw8BAQdAwD92xBcL5C6X4rKl31CmSFHvP26ur4Rks6Js
+//E8nW60NVNvZXJlbiBZZW1vdGFZIChHaXRodWI6WWVtb3RhWSkgPGI1OTE5MDMw
+OEBnbWFpbC5jb20+iJAEExYKADgWIQT6scWfbKpYJUQ+exQPCJ7lt0MtawUCamEG
+FwIbAwULCQgHAgYVCgkICwIEFgIDAQIeAQIXgAAKCRAPCJ7lt0Mta8OdAQCCSrds
+LIba+vvEtrLx6shrJb9YAuceHDwQVBewP7QGhgD9G8kKiXA0S7UhaTkDic0jtGtW
+KPZkDXDHwmDcwUqpjgy4OARqYQYXEgorBgEEAZdVAQUBAQdAXccctJq/boUnO+IN
+HNonaN8bTzdhJqdQtr/+GbwC4G4DAQgHiHgEGBYKACAWIQT6scWfbKpYJUQ+exQP
+CJ7lt0MtawUCamEGFwIbDAAKCRAPCJ7lt0Mta94vAP4ruinyP7MFZlssGxVSpRGK
+01FJBjHhzeb4n5MLMR1b2gEAhppOHNYBEj6hJXgNmQ1RGX6WbEahQkJYJ1tpDqr5
+BQQ=
+=Lv/1
+-----END PGP PUBLIC KEY BLOCK-----
+```
 
 ## Support
 If you would like to support me and my work, you can do so here: \
